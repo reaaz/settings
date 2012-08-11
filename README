@@ -1,6 +1,9 @@
 ALL the settings!
 
 Shell: ZSH w/ oh-my-zsh
+Shell theme: prose by Steve Losh (http://stevelosh.com/blog/2010/02/my-extravagant-zsh-prompt/)
+Terminal: iTerm 2
+Terminal colors: Monokai (http://stevelosh.com/blog/2009/03/candy-colored-terminal/)
 OS: Mac OS X 10.7 Lion
 Editor: Sublime Text 2
 
